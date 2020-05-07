@@ -20,7 +20,7 @@ En este caso se genera una app nativa, que consta en una pantalla verde con la h
 
 # Screenshot
 
-[![Demo](https://i.imgur.com/CqebN8b.gif)]
+[![Demo](https://i.imgur.com/CqebN8b.gif)
 
 # Ver funcionamiento en Youtube
 [![Funcionamiento](https://img.youtube.com/vi/X-DK90VkmhQ/0.jpg)](https://www.youtube.com/watch?v=X-DK90VkmhQ)
